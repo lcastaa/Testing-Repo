@@ -1,5 +1,5 @@
 {
-  "container_name": "testing",
+  "container_name": "testing_development_branch",
   "image_name": "test",
   "output_filename": "mini-0.0.1-SNAPSHOT.jar",
   "args": "-d -p 80:8080"
