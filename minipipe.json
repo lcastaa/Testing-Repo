@@ -1,0 +1,6 @@
+{
+  "container_name": "Testing",
+  "image_name": "Test",
+  "output_filename": "mini-0.0.1-SNAPSHOT.jar",
+  "args": "-d -p 8080:8080"
+}
